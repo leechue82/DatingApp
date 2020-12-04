@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { User } from './_models/user';
 import { AccountService } from './_services/account.service';
-import { Mon } from './_models/mon';
 
 @Component({
   selector: 'app-root',
@@ -12,7 +11,6 @@ import { Mon } from './_models/mon';
 export class AppComponent implements OnInit {
   title = 'The Dating app';
   users: any;
-  mon: any;
 
   constructor(private accountService: AccountService) {}
 
