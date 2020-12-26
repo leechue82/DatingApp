@@ -1,6 +1,6 @@
 [
     {
-        "UserName": "Susanna",
+        "Username": "Susanna",
         "Gender": "female",
         "DateOfBirth": "1965-09-17",
         "KnownAs": "Susanna",
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "UserName": "Nettie",
+        "Username": "Nettie",
         "Gender": "female",
         "DateOfBirth": "1965-09-28",
         "KnownAs": "Nettie",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "UserName": "Terra",
+        "Username": "Terra",
         "Gender": "female",
         "DateOfBirth": "1988-11-07",
         "KnownAs": "Terra",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "UserName": "Virginia",
+        "Username": "Virginia",
         "Gender": "female",
         "DateOfBirth": "1998-12-17",
         "KnownAs": "Virginia",
@@ -76,7 +76,7 @@
         ]
     },
     {
-        "UserName": "Donna",
+        "Username": "Donna",
         "Gender": "female",
         "DateOfBirth": "1967-05-27",
         "KnownAs": "Donna",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "UserName": "Webster",
+        "Username": "Webster",
         "Gender": "male",
         "DateOfBirth": "1982-02-22",
         "KnownAs": "Webster",
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "UserName": "Pickett",
+        "Username": "Pickett",
         "Gender": "male",
         "DateOfBirth": "1979-10-25",
         "KnownAs": "Pickett",
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "UserName": "Ingram",
+        "Username": "Ingram",
         "Gender": "male",
         "DateOfBirth": "1973-01-11",
         "KnownAs": "Ingram",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "UserName": "Miles",
+        "Username": "Miles",
         "Gender": "male",
         "DateOfBirth": "1962-07-21",
         "KnownAs": "Miles",
@@ -171,7 +171,7 @@
         ]
     },
     {
-        "UserName": "Willis",
+        "Username": "Willis",
         "Gender": "male",
         "DateOfBirth": "1964-07-08",
         "KnownAs": "Willis",
@@ -184,7 +184,7 @@
         "Country": "New Zealand",
         "Photos": [
             {
-                "Url": "https://randomuser.me/api/portraits/men/31.jpg",
+                "Url": "https://randomuser.me/api/portraits/men/66.jpg",
                 "IsMain": true
             }
         ]
