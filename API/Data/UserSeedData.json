@@ -1,6 +1,6 @@
 [
     {
-        "Username": "Susanna",
+        "UserName": "Susanna",
         "Gender": "female",
         "DateOfBirth": "1965-09-17",
         "KnownAs": "Susanna",
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "Username": "Nettie",
+        "UserName": "Nettie",
         "Gender": "female",
         "DateOfBirth": "1965-09-28",
         "KnownAs": "Nettie",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "Username": "Terra",
+        "UserName": "Terra",
         "Gender": "female",
         "DateOfBirth": "1988-11-07",
         "KnownAs": "Terra",
@@ -57,10 +57,10 @@
         ]
     },
     {
-        "Username": "Virginia",
+        "UserName": "Lisa",
         "Gender": "female",
         "DateOfBirth": "1998-12-17",
-        "KnownAs": "Virginia",
+        "KnownAs": "Lisa",
         "Created": "2019-10-03",
         "LastActive": "2020-05-31",
         "Introduction": "In officia tempor ut eiusmod esse pariatur. Eiusmod velit quis eiusmod ea duis magna excepteur aliquip voluptate velit adipisicing. Irure excepteur cillum ex eiusmod nisi officia incididunt. Laborum ipsum ad esse ullamco voluptate occaecat laboris nisi. Mollit velit cupidatat in incididunt culpa.\r\n",
@@ -76,7 +76,7 @@
         ]
     },
     {
-        "Username": "Donna",
+        "UserName": "Donna",
         "Gender": "female",
         "DateOfBirth": "1967-05-27",
         "KnownAs": "Donna",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "Username": "Webster",
+        "UserName": "Webster",
         "Gender": "male",
         "DateOfBirth": "1982-02-22",
         "KnownAs": "Webster",
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "Username": "Pickett",
+        "UserName": "Pickett",
         "Gender": "male",
         "DateOfBirth": "1979-10-25",
         "KnownAs": "Pickett",
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "Username": "Ingram",
+        "UserName": "Ingram",
         "Gender": "male",
         "DateOfBirth": "1973-01-11",
         "KnownAs": "Ingram",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "Username": "Miles",
+        "UserName": "Miles",
         "Gender": "male",
         "DateOfBirth": "1962-07-21",
         "KnownAs": "Miles",
@@ -171,7 +171,7 @@
         ]
     },
     {
-        "Username": "Willis",
+        "UserName": "Willis",
         "Gender": "male",
         "DateOfBirth": "1964-07-08",
         "KnownAs": "Willis",
@@ -184,7 +184,7 @@
         "Country": "New Zealand",
         "Photos": [
             {
-                "Url": "https://randomuser.me/api/portraits/men/66.jpg",
+                "Url": "https://randomuser.me/api/portraits/men/77.jpg",
                 "IsMain": true
             }
         ]
